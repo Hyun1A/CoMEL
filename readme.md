@@ -44,7 +44,7 @@ cd ./continual
 bash ./shell_scripts/continual_instance/run_cdatmil_ppl_owlora.sh
 </pre>
 
-- Other continual learning methods can be run like EWC, LwF, ER, DER++, InfLoRA, etc
+- Other continual learning methods can be run: EWC, LwF, ER, DER++, InfLoRA, etc
 
 ### Continual Bag classification
 
@@ -53,7 +53,7 @@ cd ./continual
 bash ./shell_scripts/continual_bag/run_cdatmil_ppl_owlora.sh
 </pre>
 
-- Other continual learning methods can be run like EWC, LwF, ER, DER++, InfLoRA, etc
+- Other continual learning methods can be run: EWC, LwF, ER, DER++, InfLoRA, etc
 
 ### Joint Instance classification
 
@@ -62,4 +62,4 @@ cd ./joint
 bash ./shell_scripts/joint_instance/run_cdatmil_ppl.sh
 </pre>
 
-- Other continual learning methods can be run like ABMIL, DSMIL, TransMIL, RRTMIL, etc
+- Other continual learning methods can be run: ABMIL, DSMIL, TransMIL, RRTMIL, etc
