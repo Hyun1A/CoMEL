@@ -36,7 +36,7 @@ TCGA:
 https://portal.gdc.cancer.gov/
 
 
-## Running Experiments
+## Experiments
 ### Continual Instance classification
 
 <pre>
