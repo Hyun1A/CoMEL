@@ -1,5 +1,5 @@
 <!--  <p align="center" style="font-size:50px;"> -->
-# Official Implementation of GLoCE 
+# Official Implementation of CoMEL 
 <!-- </p> -->
 
 ## Setup for experiments
